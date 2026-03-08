@@ -1,4 +1,3 @@
-markdown_content = """
 # UK Household Financial Resilience Analysis (2024-2025)
 
 ## Project Overview
