@@ -3,6 +3,9 @@
 ## Project Overview
 This project investigates the financial health and debt structures of UK households using the **Bank of England (BoE) NMG Survey data**. The study identifies a critical "Awareness Gap" in the 2025 economy, where objective debt levels are accelerating while subjective financial stress remains at record lows.
 
+## Data Source
+https://www.bankofengland.co.uk/statistics/research-datasets
+
 ---
 
 ## Technical Stack
